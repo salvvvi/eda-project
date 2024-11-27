@@ -35,12 +35,5 @@ Time Series Analysis: Trends in stock prices over time.
 Time-series plots for stock price trends.
 Histograms and box plots for price distributions.
 Bar charts and heatmaps to compare industries and countries.
-4. Key Insights
-Share insights discovered during the analysis.
-Key Findings
 
-Installation and Usage
-Prerequisites
-Python 3.7 or higher
-Libraries: pandas, numpy, matplotlib, seaborn, plotly 
 -----
